@@ -44,3 +44,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/namanmahajan_17?utm_source=qr)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahajannaman2020@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Naman_M15)
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namanmahajan2020/namanmahajan2020/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namanmahajan2020/namanmahajan2020/output/github-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/namanmahajan2020/namanmahajan2020/output/github-snake.svg" />
+</picture>
