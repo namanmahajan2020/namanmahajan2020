@@ -1,13 +1,18 @@
-# Hey there, I'm Naman! 👋
 
-## About Me
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Naman+Mahajan!" alt="Typing SVG" /></a>
+</div>
 
+<h3 align="center">A passionate Full-Stack Developer and Life-Long Learner based in India</h3>
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
 
 - 🎓 Student at SRM Institute of Science and Technology
 - 📚 I'm currently learning DSA
 - 🖥 Passionate about App Development
 - ⚡Fun fact: I’m always open to learning new things!
-
+<br>
 
 ## 🛠 Skills
 
@@ -37,6 +42,8 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" alt="express" data-canonical-src="" style="max-width: 100%;"></a>
 </div>
 </div>
+
+<br>
 
 ## 🌐 Find me around the web 🌍
 
