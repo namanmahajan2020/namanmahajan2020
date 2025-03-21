@@ -1,7 +1,14 @@
-
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Naman+Mahajan!" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg#light">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Naman+Mahajan!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=2D2D2D&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Naman+Mahajan!" alt="Typing SVG" />
+  </picture>
+</a>
+
 </div>
+
 
 <h3 align="center">A passionate Full-Stack Developer and Life-Long Learner based in India</h3>
 
