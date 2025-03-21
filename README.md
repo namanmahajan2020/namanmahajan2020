@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <a href="https://git.io/typing-svg#light">
@@ -14,7 +15,7 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
-
+![Profile Views](https://komarev.com/ghpvc/?username=namanmahajan2020&color=blue)
 - 🎓 Student at SRM Institute of Science and Technology
 - 📚 I'm currently learning DSA
 - 🖥 Passionate about App Development
@@ -58,6 +59,18 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/namanmahajan_17?utm_source=qr)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahajannaman2020@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Naman_M15)
+
+ <br>
+ 
+## 📈 GitHub Stats
+
+  <img src="https://github-readme-stats.vercel.app/api?username=namanmahajan2020&show_icons=true&theme=radical" alt="GitHub Stats" /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanmahajan2020&layout=compact&theme=radical" alt="Top Languages" />
+
+
+
+
+
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namanmahajan2020/namanmahajan2020/output/github-snake-dark.svg" />
