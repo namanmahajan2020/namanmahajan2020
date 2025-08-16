@@ -80,13 +80,6 @@
        
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namanmahajan2020/namanmahajan2020/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namanmahajan2020/namanmahajan2020/output/github-snake.svg" />
-
- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDMxdHVoN3N0MW05MjZ5cWpkZ3pud29paWtjcWN1NWQyYjAwc2ZvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xaOcLNlhNc4m0BiVIQ/giphy.gif" 
-       alt="Kawaii" 
-       width="100" 
-       height="100" 
-       align="right" />
-  
   <img alt="github-snake" src="https://raw.githubusercontent.com/namanmahajan2020/namanmahajan2020/output/github-snake.svg" />
   
   
