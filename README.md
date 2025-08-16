@@ -15,6 +15,7 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
+<img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" align="right" />
 ![Profile Views](https://komarev.com/ghpvc/?username=namanmahajan2020&color=blue)
 - 🎓 Student at SRM Institute of Science and Technology
 - 📚 I'm currently learning DSA
@@ -23,6 +24,8 @@
 <br>
 
 ## 🛠 Skills
+
+
 
 <div align="left" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/34a110ef06e3aeed9a1de60ce8099b45eedc5580e1f49cc490c1b28c896b264e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/34a110ef06e3aeed9a1de60ce8099b45eedc5580e1f49cc490c1b28c896b264e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6f726967696e616c2e737667" height="40" alt="c logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="max-width: 100%;"></a>
@@ -50,7 +53,7 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" alt="express" data-canonical-src="" style="max-width: 100%;"></a>
 </div>
 </div>
-
+<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
 <br>
 
 ## 🌐 Find me around the web 🌍
@@ -64,6 +67,7 @@
  
 ## 📈 GitHub Stats
 
+
   <img src="https://github-readme-stats.vercel.app/api?username=namanmahajan2020&show_icons=true&theme=radical" alt="GitHub Stats" /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanmahajan2020&layout=compact&theme=radical" alt="Top Languages" />
 
@@ -73,7 +77,18 @@
 
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namanmahajan2020/namanmahajan2020/output/github-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namanmahajan2020/namanmahajan2020/output/github-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/namanmahajan2020/namanmahajan2020/output/github-snake.svg" />
+       
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namanmahajan2020/namanmahajan2020/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namanmahajan2020/namanmahajan2020/output/github-snake.svg" />
+
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDMxdHVoN3N0MW05MjZ5cWpkZ3pud29paWtjcWN1NWQyYjAwc2ZvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xaOcLNlhNc4m0BiVIQ/giphy.gif" 
+       alt="Kawaii" 
+       width="100" 
+       height="100" 
+       align="right" />
+  
+  <img alt="github-snake" src="https://raw.githubusercontent.com/namanmahajan2020/namanmahajan2020/output/github-snake.svg" />
+  
+  
 </picture>
+
