@@ -40,21 +40,21 @@
 
 <br>
 
-## 🛠 Skills
+## 🛠 Tech Arsenal
+<div align="left">
 
+| 🚀 Category | 🧰 Technologies |
+|-------------|----------------|
+| 💻 **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&perline=5" /> |
+| 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,vite,tailwind&perline=7" /> |
+| ⚙️ **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&perline=4" /> |
+| 🗄 **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase&perline=5" /> |
+| 🛠 **Tools & Cloud** | <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,vscode,figma&perline=6" /> |
 
+</div>
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" /><br>
-  <!-- Web Development -->
-  <img src="https://skillicons.dev/icons?i=html,css,react,next,vue,nodejs,express" /><br>
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" /><br>
-  <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,tailwind,bootstrap,figma" /><br>
-  <!-- DevOps & Cloud -->
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,vscode" />
+<p align="left">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=80&section=footer"/>
 </p>
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
 <br>
@@ -71,11 +71,11 @@
 ## 📈 GitHub Stats
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=namanmahajan2020&show_icons=true&theme=radical" alt="GitHub Stats" /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanmahajan2020&layout=compact&theme=radical" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api?username=namanmahajan2020&show_icons=true&theme=radical" alt="GitHub Stats" /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanmahajan2020&layout=compact&theme=radical" alt="Top Languages" />
 
 
-
+<img src="https://leetcard.jacoblin.cool/naman_mahajan?theme=dark&font=Baloo" />
 
 
 
@@ -88,3 +88,4 @@
   
 </picture>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Real+World+Projects;Always+Learning+New+Tech" />
