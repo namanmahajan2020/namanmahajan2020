@@ -17,10 +17,17 @@
 <br>
 <img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" align="right" />
 ![Profile Views](https://komarev.com/ghpvc/?username=namanmahajan2020&color=blue)
-- 🎓 Student at SRM Institute of Science and Technology
-- 📚 I'm currently learning DSA
-- 🖥 Passionate about App Development
-- ⚡Fun fact: I’m always open to learning new things!
+- 🎓 Student @ **SRM Institute of Science and Technology**
+  
+- 💻 Turning ideas into **real-world projects**
+
+- 📚 Currently mastering **Data Structures & Algorithms**
+
+- 🚀 Always building. Always learning. Always improving.
+
+- 💼 **Portfolio:** ➜ [Explore My Projects](https://astrofolio-opal.vercel.app/) 👆
+  
+- ⚡ **Fun fact:** I love exploring new tech, tools, and crazy ideas!
 <br>
 
 ## 🛠 Skills
