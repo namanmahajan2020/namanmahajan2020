@@ -20,9 +20,9 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=namanmahajan2020&color=blue"/>
 
-  <img width="27%"/>
+  <img width="24%"/>
 
-  <a href="https://astrofolio-opal.vercel.app/" target="_blank">
+  <a href="https://astrofolio-opal.vercel.app/">
     <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-ff007f?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
