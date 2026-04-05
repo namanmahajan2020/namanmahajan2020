@@ -67,15 +67,66 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Naman_M15)
 
  <br>
+
+<!-- <h2 align="center"><b>📊 Github Stats</b></h2>
+<p align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=namankoolwal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast&sideLabels=f77f00"/>
+<img  src="https://github-readme-stats-dply.vercel.app/api?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00&rank_icon=github"/><br>
+<img  src="https://github-readme-stats-dply.vercel.app/api/top-langs?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&langs_count=6&layout=compact"/>
+
+
+</p>
+<br> -->
+
+
+
+<h2 align="left"><b>📊 Github Stats<b></h2>
+<table>
+    <thead>
+        <tr>
+            <th>Naman's Languages</th>
+            <th>Naman's Streaks</th>
+            <th>Naman's Stats</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api/top-langs?username=namanmahajan2020&show_icons=true&locale=en&theme=chartreuse-dark&langs_count=6&layout=compact"><img src="https://github-readme-stats-dply.vercel.app/api/top-langs?username=namanmahajan2020&show_icons=true&locale=en&theme=chartreuse-dark&langs_count=6&layout=compact" alt="Naman's Top Languages" style="max-width: 100%;">
+                </a>
+            </td>
+            <td>
+                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-streak-stats.herokuapp.com/?user=namanmahajan2020&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=chartreuse-dark&sideLabels=f77f00"><img src="https://github-readme-streak-stats.herokuapp.com/?user=namanmahajan2020&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=chartreuse-dark&sideLabels=f77f00" alt="Naman's GitHub Streak" style="max-width: 100%;">
+                </a>
+            </td>
+            <td>
+                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api?username=namanmahajan2020&show_icons=true&locale=en&theme=chartreuse-dark&sideLabels=F00&rank_icon=github"><img src="https://github-readme-stats-dply.vercel.app/api?username=namanmahajan2020&show_icons=true&locale=en&theme=chartreuse-dark&sideLabels=F00&rank_icon=github" alt="Naman's GitHub Stats" style="max-width: 100%;">
+                <!-- <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api/wakatime?username=namankoolwal&langs_count=18&theme=merko"><img src="https://github-readme-stats-dply.vercel.app/api/wakatime?username=namankoolwal&langs_count=18&theme=merko" alt="Naman's WakaTime Stats" style="max-width: 100%;"> -->
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<hr>
+<br>
  
-## 📈 GitHub Stats
+
+<h2 align="center">📊 Coding Activity</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/naman_mahajan?theme=dark&font=Baloo" height="200"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=namanmahajan2020&radius=16&theme=chartreuse-dark&area=true" height="200"/>
+    </td>
+  </tr>
+</table>
 
 
- <img src="https://github-readme-stats.vercel.app/api?username=namanmahajan2020&show_icons=true&theme=radical" alt="GitHub Stats" /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanmahajan2020&layout=compact&theme=radical" alt="Top Languages" />
 
 
-<img src="https://leetcard.jacoblin.cool/naman_mahajan?theme=dark&font=Baloo" />
 
 
 
