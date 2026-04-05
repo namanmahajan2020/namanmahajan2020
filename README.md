@@ -107,11 +107,10 @@
         </tr>
     </tbody>
 </table>
-<hr>
 <br>
  
 
-<h2 align="center">📊 Coding Activity</h2>
+<h2 align="left">📊 Coding Activity</h2>
 
 <table align="center">
   <tr>
@@ -125,18 +124,31 @@
 </table>
 
 
+<br>
+
+<h2 align="left" style="margin-top:10px;">🐍 Contribution Snake</h2>
+
+<div align="center" style="margin-top:10px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/namanmahajan2020/namanmahajan2020/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/namanmahajan2020/namanmahajan2020/output/github-snake.svg" />
+    <img alt="github-snake" 
+         src="https://raw.githubusercontent.com/namanmahajan2020/namanmahajan2020/output/github-snake.svg"
+         width="100%" />
+  </picture>
+</div>
 
 
 
 
-
-<picture>
+<!-- <picture>
        
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namanmahajan2020/namanmahajan2020/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namanmahajan2020/namanmahajan2020/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/namanmahajan2020/namanmahajan2020/output/github-snake.svg" />
   
   
-</picture>
+</picture> -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Real+World+Projects;Always+Learning+New+Tech" />
