@@ -80,13 +80,13 @@
 
 
 
-<h2 align="left"><b>📊 Github Stats<b></h2>
+<h2><b>📊 Github Stats<b></h2>
 <table>
     <thead>
         <tr>
             <th>Naman's Languages</th>
             <th>Naman's Streaks</th>
-            <th>Naman's Stats</th>
+            <!-- <th>Naman's Stats</th> -->
         </tr>
     </thead>
     <tbody>
@@ -99,11 +99,11 @@
                 <a target="_blank" rel="noopener noreferrer" href="https://github-readme-streak-stats.herokuapp.com/?user=namanmahajan2020&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=chartreuse-dark&sideLabels=f77f00"><img src="https://github-readme-streak-stats.herokuapp.com/?user=namanmahajan2020&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=chartreuse-dark&sideLabels=f77f00" alt="Naman's GitHub Streak" style="max-width: 100%;">
                 </a>
             </td>
-            <td>
-                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api?username=namanmahajan2020&show_icons=true&locale=en&theme=chartreuse-dark&sideLabels=F00&rank_icon=github"><img src="https://github-readme-stats-dply.vercel.app/api?username=namanmahajan2020&show_icons=true&locale=en&theme=chartreuse-dark&sideLabels=F00&rank_icon=github" alt="Naman's GitHub Stats" style="max-width: 100%;">
+            <!-- <td> -->
+                <!-- <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api?username=namanmahajan2020&show_icons=true&locale=en&theme=chartreuse-dark&sideLabels=F00&rank_icon=github"><img src="https://github-readme-stats-dply.vercel.app/api?username=namanmahajan2020&show_icons=true&locale=en&theme=chartreuse-dark&sideLabels=F00&rank_icon=github" alt="Naman's GitHub Stats" style="max-width: 100%;">
                 <!-- <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api/wakatime?username=namankoolwal&langs_count=18&theme=merko"><img src="https://github-readme-stats-dply.vercel.app/api/wakatime?username=namankoolwal&langs_count=18&theme=merko" alt="Naman's WakaTime Stats" style="max-width: 100%;"> -->
-                </a>
-            </td>
+                <!-- </a> -->
+            <!-- </td> -->
         </tr>
     </tbody>
 </table>
